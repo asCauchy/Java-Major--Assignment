@@ -1,5 +1,5 @@
 # CET Focus 四六级学习助手
-![Uploading CET-Modern-Pro-Preview.png…]()
+<img width="1280" height="832" alt="CET-Modern-Pro-Preview" src="https://github.com/user-attachments/assets/c0045aa9-4d78-4e93-906a-9144f7d95e72" />
 
 主要功能：
 1. 错题管理
